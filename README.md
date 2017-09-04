@@ -20,7 +20,7 @@ processes and how they can be computed using analytics or computer simulations.
 
 ## Prerequisites: 
 Undergraduate-level knowledge in probability, statistics, linear algebra and
-programming skill (R recommended) are highly recommended. Stochastic Finance (FIN 519),
+programming skill (R recommended) are highly recommended. [Stochastic Finance](https://github.com/PHBS/2016.M3.StoFin) (FIN 519),
 a year 1 required course for quantitative finance program, is also highly recommended as it
 provides theoretical background. However these are not mandatory prerequisites. The
 students without these recommended prerequisites are still encouraged to take this course if
