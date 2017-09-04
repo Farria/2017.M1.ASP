@@ -40,7 +40,7 @@ During the course, students will be asked to 4~5 homeworks in mini-project style
 * Stochastic volatility model
 * Pricing equity-linked-notes (knock-out)
 
-One of the HWs can be chosen as __a final project topic__ and students will do an in-depth research on the topic. 
+One of the HWs can be chosen as __a final project topic__ and students will do an in-depth research on the topic. Majority of the HW/project will be coding in Python/Jupiter notebook. (Submission of HW/project is uploading the codes to github.)
 
 ## Assessment/Grading Details
 Attendance 20%, Mid-term Exam 25%, Assignments 25%, Course Project 30%
