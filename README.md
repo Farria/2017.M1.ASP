@@ -1,4 +1,4 @@
-# Applied Stochastic Processes (2017-18 Module 1)
+# Applied Stochastic Processes (FIN 514, 2017-18 Module 1)
 
 ## Classes: 
 * Lectures: Monday & Thursday 1:30 – 3:20 PM
