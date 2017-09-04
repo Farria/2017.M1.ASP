@@ -29,8 +29,8 @@ interested, but are expected to take extra efforts.
 ##  Textbooks and Reading Materials
 * Monte Carlo Methods in Finance by Peter Jaeckel
 * Option Valuation Under Stochastic Volatility by Alan Lewis
-* Stochastic Calculus and Financial Applications by J. Michael Steele
-
+* [Stochastic Calculus and Financial Applications](http://www-stat.wharton.upenn.edu/~steele/StochasticCalculus.html) by J. Michael Steele
+([Stochastic finance course notes](https://github.com/PHBS/2016.M3.StoFin/blob/master/files/Notes%20Steele.pdf))
 ## Assessment/Grading Details
 Attendance 20%, Mid-term Exam 25%, Assignments 25%, Course Project 30%
 (Mid-term exam will be taken on Oct 23 in the 7th week. There will be no final exam.)
