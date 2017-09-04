@@ -31,6 +31,17 @@ interested, but are expected to take extra efforts.
 * Option Valuation Under Stochastic Volatility by Alan Lewis
 * [Stochastic Calculus and Financial Applications](http://www-stat.wharton.upenn.edu/~steele/StochasticCalculus.html) by J. Michael Steele
 ([Stochastic finance course notes](https://github.com/PHBS/2016.M3.StoFin/blob/master/files/Notes%20Steele.pdf))
+
+## HW/Final project
+During the course, students will be asked to 4~5 homeworks in mini-project styles individually or in group:
+
+* Black-Scholes-Merton (lognormal) vs Bachelier (normal) option pricing model
+* Spread/Basket (multi-asset) option pricing
+* Stochastic volatility model
+* Pricing equity-linked-notes (knock-out)
+
+One of the HWs can be chosen as __a final project topic__ and students will do an in-depth research on the topic. 
+
 ## Assessment/Grading Details
 Attendance 20%, Mid-term Exam 25%, Assignments 25%, Course Project 30%
 (Mid-term exam will be taken on Oct 23 in the 7th week. There will be no final exam.)
