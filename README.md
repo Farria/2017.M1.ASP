@@ -1,5 +1,10 @@
 # Applied Stochastic Processes (FIN 514, 2017-18 Module 1)
 
+## Notice
+See this wikipage for [downloading github desktop install file](https://github.com/PHBS/2017.M1.ASP/wiki/Github-Desktop-Download)
+
+
+
 ## Classes: 
 * Lectures: Monday & Thursday 1:30 – 3:20 PM
 * Venue: PHBS Building, Room 313
