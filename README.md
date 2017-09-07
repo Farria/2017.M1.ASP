@@ -1,9 +1,13 @@
 # Applied Stochastic Processes (FIN 514, 2017-18 Module 1)
 
-## Notice
-See this wikipage for [downloading github desktop install file](https://github.com/PHBS/2017.M1.ASP/wiki/Github-Desktop-Download)
+## Announcements
+__[NEW]__ See this wikipage for [downloading github desktop install file](https://github.com/PHBS/2017.M1.ASP/wiki/Github-Desktop-Download)
 
+## Lectures:
 
+* 01 (09/04) Course overview ([Syllabus](files/syllabus.pdf)), Probability Statistics Review ([Slides](files/ProbStatsReview.pdf))
+* 02 (09/07) Scientific computing, Monte Carlo method, Random number generation.
+[Grouping for HW/projects, Software installation]
 
 ## Classes: 
 * Lectures: Monday & Thursday 1:30 – 3:20 PM
