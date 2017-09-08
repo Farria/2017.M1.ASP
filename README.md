@@ -1,12 +1,12 @@
 # Applied Stochastic Processes (FIN 514, 2017-18 Module 1)
 
 ## Announcements
-__[NEW]__ See this wikipage for [python install](https://github.com/PHBS/2017.M1.ASP/wiki/Python-Resources) and  [downloading github desktop install file](https://github.com/PHBS/2017.M1.ASP/wiki/Github-Desktop-Download)
+__[NEW]__ See this wikipage for [python install](https://github.com/PHBS/2017.M1.ASP/wiki/Python-Resources) and [downloading github desktop install file](https://github.com/PHBS/2017.M1.ASP/wiki/Github-Desktop-Download). The Github install files are now in [CMS for this course](http://cms.phbs.pku.edu.cn/claroline/document/document.php?cidReset=true&cidReq=FIN514).
 
 ## Lectures:
 
 * __01__ (09/04 Mon): Course overview ([Syllabus](files/syllabus.pdf)), Probability Statistics Review ([Slides](files/ProbStatsReview.pdf))
-* __02__ (09/07 Thu): Scientific computing, Monte Carlo method, Random number generation. [Grouping for HW/projects, Software installation]
+* __02__ (09/07 Thu): Scientific computing, Monte Carlo method, Random number generation ([Slides](files/MCmethod.pdf), [Ipynb](files/MC_Demo.ipynb)). [Grouping for HW/projects, Software installation]
 * __03__ (09/11 Mon): Python crash course
 
 
