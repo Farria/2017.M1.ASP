@@ -9,10 +9,10 @@
 
 ## Lectures:
 
-* __01__ (09/04 Mon): Course overview ([Syllabus](files/syllabus.pdf)), Probability Statistics Review ([Slides](files/ProbStatsReview.pdf))
-* __02__ (09/07 Thu): Scientific computing, Monte Carlo method, Random number generation ([Slides](files/MCmethod.pdf), [Py demo](py/MC_Demo.ipynb)). [Grouping for HW/projects, Software installation]
+* __04 [NEW]__ (09/14 Thu): Random number generation continued: Box-Muller/Marsaglia method. [Normal model](files/NormalModel.pdf).
 * __03 [NEW]__ (09/11 Mon): Python crash course ([Cheatsheet](py/Cheatsheet_Derek_Banas.ipynb), [Black-Scholes implementation](py/BlackScholes_FunctionVsClass.ipynb) in notebook)
-* __04 [NEW]__ (09/14 Thu): Random number generation continued: Box-Muller/Marsaglia method. Normal model.
+* __02__ (09/07 Thu): Scientific computing, Monte Carlo method, Random number generation ([Slides](files/MCmethod.pdf), [Py demo](py/MC_Demo.ipynb)). [Grouping for HW/projects, Software installation]
+* __01__ (09/04 Mon): Course overview ([Syllabus](files/syllabus.pdf)), Probability Statistics Review ([Slides](files/ProbStatsReview.pdf))
 
 ## Homeworks:
 
