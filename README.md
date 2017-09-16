@@ -22,7 +22,7 @@ Write code for Black-Scholes-Merton and Normal model: vanilla option (call/put) 
 
 ### __Set 1__ [Due by 9.18 Mon 11 PM, Individual]: 
 
-Assume that you keep throwing a coin (H/T probabilitly p/q=1-p) __until you get two heads in a row__? Write a python function to compute this expected number of coin throw using __Monte Carlo__ method. Get one answer by averaging N simulations, and obtain M answers. Get the mean and standard deviation increasing N with fixed M (e.g. say M=1000).
+Assume that you keep throwing a coin (H/T probabilitly p/q=1-p) __until you get two heads in a row__? Write a python function to compute this expected number of coin throw using __Monte Carlo__ method. Get one answer by averaging N simulations, and obtain M answers. Get the mean and standard deviation increasing N with fixed M (e.g. say N=100,200,400,800 and M=1000). Run the same experiment for p = 0.5, 0.25, 0.05. __Please comment on your codes so that I can understand what your code does.__
 
 You can find the true answer for p=q=0.5 in the [HW answer](https://github.com/PHBS/2016.M3.StoFin/blob/master/files/StoFin_HW_Solution.pdf) of Stochastic finance course. You can easily generalize for general p/q.
 
