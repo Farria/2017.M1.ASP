@@ -9,6 +9,7 @@
 
 ## Lectures:
 
+* __07 [NEW]__ (09/21 Thu): [HW2](https://github.com/PHBS-2017-ASP-Classroom/BSMmodel_Base), Github desktop, Python debugging, Spread/Basket options (HW3) ([slides](files/SpreadBasketOption.pdf))
 * __06 [NEW]__ (09/20 Wed): Stochastic process review. ([Course note]( https://github.com/PHBS/2016.M3.StoFin/blob/master/files/Notes%20Steele.pdf) from stochastic finance course)
 * __05__ (09/18 Mon): Implied volatility([Slides](files/ImpVol.pdf), [Py demo](py/ImpliedVolatility.ipynb)), RN generation for correlated normals.
 * __04__ (09/14 Thu): Random number generation continued: Box-Muller/Marsaglia method. [Normal model](files/NormalModel.pdf).
