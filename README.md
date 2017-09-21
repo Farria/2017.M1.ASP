@@ -19,7 +19,7 @@
 
 ## Homeworks:
 
-### [NEW] __Set 2__ [Due by 9/30 Fri 11 PM, Group]:
+### [NEW] __Set 2__ ([Starter Code](https://github.com/PHBS-2017-ASP-Classroom/BSMmodel_Base))[Due by 9/30 Fri 11 PM, By group]:
 
 Write code for Black-Scholes-Merton and Normal model: vanilla option (call/put) price, delta, vega, CDF (digital), and price from Monte-Carlo. Implement them using python class. I am going to provide the base code from which you can build your own.
 
