@@ -1,6 +1,8 @@
 # Applied Stochastic Processes (FIN 514, 2017-18 Module 1)
 
 ## Announcements
+* __[NEW]__ TA office hours announced as below.
+
 * Please create your GitHub account for homework/project. Make sure to add your full name (not only ID). Then, click the classroom invidation link I sent to email.
 
 * I set up class mailing list phbs.asp@allmail.net and sent out the first email. __If you're not in the list, please contact me.__ I sent the invitation link for GitHub classroom for uploading homework.
@@ -39,7 +41,11 @@ You can find the true answer for p=q=0.5 in the [HW answer](https://github.com/P
 * Office: PHBS Building, Room 755
 * Phone: 86-755-2603-0568
 * Email: jaehyuk@phbs.pku.edu.cn
-* Office Hour: Monday & Thursday 11 – 12AM or by appointment
+* Office Hour: Monday & Thursday 11AM – 12PM or by appointment
+
+## Teaching Assistance: 葛德生 (Devon Ge)
+* Email: 1701213756@sz.pku.edu.cn
+* TA Office Hour: Tuesday 10:30AM - 12:20PM, Friday 1:30PM - 3:20PM (Room 213/214)
 
 ## Course overview: 
 Applied Stochastic Processes (ASP) is intended for the students who are
