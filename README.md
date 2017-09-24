@@ -1,7 +1,7 @@
 # Applied Stochastic Processes (FIN 514, 2017-18 Module 1)
 
 ## Announcements
-* __[NEW]__ TA office hours announced as below.
+* __[NEW]__ TA office hours announced as [below](#teaching-assistance-葛德生-devon-ge).
 
 * Please create your GitHub account for homework/project. Make sure to add your full name (not only ID). Then, click the classroom invidation link I sent to email.
 
@@ -32,7 +32,6 @@ Assume that you keep throwing a coin (H/T probabilitly p/q=1-p) __until you get 
 You can find the true answer for p=q=0.5 in the [HW answer](https://github.com/PHBS/2016.M3.StoFin/blob/master/files/StoFin_HW_Solution.pdf) of Stochastic finance course. You can easily generalize for general p/q.
 
 
-
 ## Classes: 
 * Lectures: Monday & Thursday 1:30 – 3:20 PM
 * Venue: PHBS Building, Room 313
@@ -44,6 +43,7 @@ You can find the true answer for p=q=0.5 in the [HW answer](https://github.com/P
 * Office Hour: Monday & Thursday 11AM – 12PM or by appointment
 
 ## Teaching Assistance: 葛德生 (Devon Ge)
+While TA may not know the course contents, TA can help you on python programming issues. So please take advantage of the TA office hours.
 * Email: 1701213756@sz.pku.edu.cn
 * TA Office Hour: Tuesday 10:30AM - 12:20PM, Friday 1:30PM - 3:20PM (Room 213/214)
 
