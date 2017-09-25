@@ -11,9 +11,10 @@
 
 ## Lectures:
 
-* __07 [NEW]__ (09/21 Thu): [HW2](https://github.com/PHBS-2017-ASP-Classroom/BSMmodel_Base), Github desktop, Python debugging, Spread/Basket options (HW3) ([slides](files/SpreadBasketOption.pdf))
-* __06 [NEW]__ (09/20 Wed): Stochastic process review. ([Course note]( https://github.com/PHBS/2016.M3.StoFin/blob/master/files/Notes%20Steele.pdf) from stochastic finance course)
-* __05__ (09/18 Mon): Implied volatility([Slides](files/ImpVol.pdf), [Py demo](py/ImpliedVolatility.ipynb)), RN generation for correlated normals.
+* __08 [NEW]__ (09/25 Tues): Spread/Basket options continued(HW3) ([Slides](files/SpreadBasketOption.pdf)), MC simulation for BSM and normal models ([Py demo](py/BlackScholes_MC.ipynb))
+* __07__ (09/21 Thu): [HW2](https://github.com/PHBS-2017-ASP-Classroom/BSMmodel_Base), Github desktop, Python debugging, Spread/Basket options (HW3) ([Slides](files/SpreadBasketOption.pdf))
+* __06__ (09/20 Wed): Stochastic process review. ([Course note]( https://github.com/PHBS/2016.M3.StoFin/blob/master/files/Notes%20Steele.pdf) from stochastic finance course)
+* __05__ (09/18 Mon): Implied volatility([Slides](files/ImpVol.pdf), [Py demo](py/BlackScholes_ImpliedVol.ipynb)), Vector and Matrix in numpy and RN generation for correlated normals ([Py demo](py/BlackScholes_VectorMatrix.ipynb))
 * __04__ (09/14 Thu): Random number generation continued: Box-Muller/Marsaglia method. [Normal model](files/NormalModel.pdf).
 * __03__ (09/11 Mon): Python crash course ([Cheatsheet](py/Cheatsheet_Derek_Banas.ipynb), [Black-Scholes implementation](py/BlackScholes_FunctionVsClass.ipynb) in notebook)
 * __02__ (09/07 Thu): Scientific computing, Monte Carlo method, Random number generation ([Slides](files/MCmethod.pdf), [Py demo](py/MC_Demo.ipynb)). [Grouping for HW/projects, Software installation]
