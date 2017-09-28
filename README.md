@@ -1,7 +1,9 @@
 # Applied Stochastic Processes (FIN 514, 2017-18 Module 1)
 
 ## Announcements
-* __[NEW]__ TA office hours announced as [below](#teaching-assistance-葛德生-devon-ge).
+* __[NEW]__ The base code for [HW2](https://github.com/PHBS-2017-ASP-Classroom/BSMmodel_Base) was updaded. I fixed the implied vol verification part.
+
+* TA office hours announced as [below](#teaching-assistance-葛德生-devon-ge).
 
 * Please create your GitHub account for homework/project. Make sure to add your full name (not only ID). Then, click the classroom invidation link I sent to email.
 
@@ -11,7 +13,8 @@
 
 ## Lectures:
 
-* __08 [NEW]__ (09/25 Tues): Spread/Basket options continued(HW3) ([Slides](files/SpreadBasketOption.pdf)), MC simulation for BSM and normal models ([Py demo](py/BlackScholes_MC.ipynb))
+* __09 [NEW]__ (09/28 Thurs): Base code for [HW3](https://github.com/PHBS-2017-ASP-Classroom/SpreadBasketOptions_Base). SABR model ([Slides](files/SABRmodel.pdf))
+* __08__ (09/25 Tues): Spread/Basket options continued(HW3) ([Slides](files/SpreadBasketOption.pdf)), MC simulation for BSM and normal models ([Py demo](py/BlackScholes_MC.ipynb))
 * __07__ (09/21 Thu): [HW2](https://github.com/PHBS-2017-ASP-Classroom/BSMmodel_Base), Github desktop, Python debugging, Spread/Basket options (HW3) ([Slides](files/SpreadBasketOption.pdf))
 * __06__ (09/20 Wed): Stochastic process review. ([Course note]( https://github.com/PHBS/2016.M3.StoFin/blob/master/files/Notes%20Steele.pdf) from stochastic finance course)
 * __05__ (09/18 Mon): Implied volatility([Slides](files/ImpVol.pdf), [Py demo](py/BlackScholes_ImpliedVol.ipynb)), Vector and Matrix in numpy and RN generation for correlated normals ([Py demo](py/BlackScholes_VectorMatrix.ipynb))
