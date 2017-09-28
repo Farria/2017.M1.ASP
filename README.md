@@ -1,7 +1,7 @@
 # Applied Stochastic Processes (FIN 514, 2017-18 Module 1)
 
 ## Announcements
-* __[NEW]__ The base code for [HW2](https://github.com/PHBS-2017-ASP-Classroom/BSMmodel_Base) was updaded. I fixed the implied vol verification part.
+* __[NEW]__ The starter code for [HW2](https://github.com/PHBS-2017-ASP-Classroom/BSMmodel_Base) was updaded. I fixed the implied vol verification part.
 
 * TA office hours announced as [below](#teaching-assistance-葛德生-devon-ge).
 
@@ -13,7 +13,7 @@
 
 ## Lectures:
 
-* __09 [NEW]__ (09/28 Thurs): Base code for [HW3](https://github.com/PHBS-2017-ASP-Classroom/SpreadBasketOptions_Base). SABR model ([Slides](files/SABRmodel.pdf))
+* __09 [NEW]__ (09/28 Thurs): Starter code for [HW3](https://github.com/PHBS-2017-ASP-Classroom/SpreadBasketOptions_Base). SABR model ([Slides](files/SABRmodel.pdf))
 * __08__ (09/25 Tues): Spread/Basket options continued(HW3) ([Slides](files/SpreadBasketOption.pdf)), MC simulation for BSM and normal models ([Py demo](py/BlackScholes_MC.ipynb))
 * __07__ (09/21 Thu): [HW2](https://github.com/PHBS-2017-ASP-Classroom/BSMmodel_Base), Github desktop, Python debugging, Spread/Basket options (HW3) ([Slides](files/SpreadBasketOption.pdf))
 * __06__ (09/20 Wed): Stochastic process review. ([Course note]( https://github.com/PHBS/2016.M3.StoFin/blob/master/files/Notes%20Steele.pdf) from stochastic finance course)
@@ -24,8 +24,11 @@
 * __01__ (09/04 Mon): Course overview ([Syllabus](files/syllabus.pdf)), Probability Statistics Review ([Slides](files/ProbStatsReview.pdf))
 
 ## Homeworks:
+### [NEW] __Set 3__ ([Starter Code](https://github.com/PHBS-2017-ASP-Classroom/SpreadBasketOptions_Base))[Due by 10/10 Tues 11 PM, By group]:
 
-### [NEW] __Set 2__ ([Starter Code](https://github.com/PHBS-2017-ASP-Classroom/BSMmodel_Base))[Due by 9/30 Fri 11 PM, By group]:
+Write code for pricing basket/spread options with Monte-Carlo with control variate.
+
+### __Set 2__ ([Starter Code](https://github.com/PHBS-2017-ASP-Classroom/BSMmodel_Base))[Due by 9/30 Sat 11 PM, By group]:
 
 Write code for Black-Scholes-Merton and Normal model: vanilla option (call/put) price, delta, vega, CDF (digital), and price from Monte-Carlo. Implement them using python class. I am going to provide the base code from which you can build your own.
 
