@@ -88,4 +88,4 @@ One of the HWs can be chosen as __a final project topic__ and students will do a
 
 ## Assessment/Grading Details
 Attendance 20%, Mid-term Exam 25%, Assignments 25%, Course Project 30%
-(Mid-term exam will be taken on Oct 23 in the 7th week. There will be no final exam.)
+(Mid-term exam will be taken on Oct 26 in the 7th week. There will be no final exam.)
