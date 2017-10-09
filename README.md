@@ -12,8 +12,8 @@
 * See this wikipage for [python install](https://github.com/PHBS/2017.M1.ASP/wiki/Python-Resources) and [downloading github desktop install file](https://github.com/PHBS/2017.M1.ASP/wiki/Github-Desktop-Download). The Github install files are now in [CMS for this course](http://cms.phbs.pku.edu.cn/claroline/document/document.php?cidReset=true&cidReq=FIN514).
 
 ## Lectures:
-
-* __09 [NEW]__ (09/28 Thurs): Starter code for [HW3](https://github.com/PHBS-2017-ASP-Classroom/SpreadBasketOptions_Base). SABR model ([Slides](files/SABRmodel.pdf))
+* __10 [NEW]__ (09/28 Thurs): SABR model continued ([Slides](files/SABRmodel.pdf))
+* __09__ (09/28 Thurs): Starter code for [HW3](https://github.com/PHBS-2017-ASP-Classroom/SpreadBasketOptions_Base). SABR model ([Slides](files/SABRmodel.pdf))
 * __08__ (09/25 Tues): Spread/Basket options continued(HW3) ([Slides](files/SpreadBasketOption.pdf)), MC simulation for BSM and normal models ([Py demo](py/BlackScholes_MC.ipynb))
 * __07__ (09/21 Thu): [HW2](https://github.com/PHBS-2017-ASP-Classroom/BSMmodel_Base), Github desktop, Python debugging, Spread/Basket options (HW3) ([Slides](files/SpreadBasketOption.pdf))
 * __06__ (09/20 Wed): Stochastic process review. ([Course note]( https://github.com/PHBS/2016.M3.StoFin/blob/master/files/Notes%20Steele.pdf) from stochastic finance course)
