@@ -1,7 +1,7 @@
 # Applied Stochastic Processes (FIN 514, 2017-18 Module 1)
 
 ## Announcements
-* __[NEW]__ The starter code for [HW2](https://github.com/PHBS-2017-ASP-Classroom/BSMmodel_Base) was updaded. I fixed the implied vol verification part.
+* The starter code for [HW2](https://github.com/PHBS-2017-ASP-Classroom/BSMmodel_Base) was updaded. I fixed the implied vol verification part.
 
 * TA office hours announced as [below](#teaching-assistance-葛德生-devon-ge).
 
@@ -12,19 +12,22 @@
 * See this wikipage for [python install](https://github.com/PHBS/2017.M1.ASP/wiki/Python-Resources) and [downloading github desktop install file](https://github.com/PHBS/2017.M1.ASP/wiki/Github-Desktop-Download). The Github install files are now in [CMS for this course](http://cms.phbs.pku.edu.cn/claroline/document/document.php?cidReset=true&cidReq=FIN514).
 
 ## Lectures:
-* __10 [NEW]__ (09/28 Thurs): SABR model continued ([Slides](files/SABRmodel.pdf))
+* __11 [NEW]__ (10/12 Thurs): HW4 [Starter Code](https://github.com/PHBS-2017-ASP-Classroom/SABRModel_Base). Demo on [Gauss-Hermite quadrature](https://github.com/PHBS-2017-ASP-Classroom/SABRmodel_Base/blob/master/Demo_GHQ.ipynb), [python import](https://github.com/PHBS-2017-ASP-Classroom/SABRmodel_Base/blob/master/Demo_Advanced_Import.ipynb) and [vectorization](https://github.com/PHBS-2017-ASP-Classroom/SABRmodel_Base/blob/master/Demo_Vectorize.ipynb).
+* __10__ (10/09 Mon): SABR model continued ([Slides](files/SABRmodel.pdf))
 * __09__ (09/28 Thurs): Starter code for [HW3](https://github.com/PHBS-2017-ASP-Classroom/SpreadBasketOptions_Base). SABR model ([Slides](files/SABRmodel.pdf))
 * __08__ (09/25 Tues): Spread/Basket options continued(HW3) ([Slides](files/SpreadBasketOption.pdf)), MC simulation for BSM and normal models ([Py demo](py/BlackScholes_MC.ipynb))
 * __07__ (09/21 Thu): [HW2](https://github.com/PHBS-2017-ASP-Classroom/BSMmodel_Base), Github desktop, Python debugging, Spread/Basket options (HW3) ([Slides](files/SpreadBasketOption.pdf))
 * __06__ (09/20 Wed): Stochastic process review. ([Course note]( https://github.com/PHBS/2016.M3.StoFin/blob/master/files/Notes%20Steele.pdf) from stochastic finance course)
-* __05__ (09/18 Mon): Implied volatility([Slides](files/ImpVol.pdf), [Py demo](py/BlackScholes_ImpliedVol.ipynb)), Vector and Matrix in numpy and RN generation for correlated normals ([Py demo](py/BlackScholes_VectorMatrix.ipynb))
+* __05__ (09/18 Mon): Implied volatility ([Slides](files/ImpVol.pdf), [Py demo](py/BlackScholes_ImpliedVol.ipynb)), Vector and Matrix in numpy and RN generation for correlated normals ([Py demo](py/BlackScholes_VectorMatrix.ipynb))
 * __04__ (09/14 Thu): Random number generation continued: Box-Muller/Marsaglia method. [Normal model](files/NormalModel.pdf).
 * __03__ (09/11 Mon): Python crash course ([Cheatsheet](py/Cheatsheet_Derek_Banas.ipynb), [Black-Scholes implementation](py/BlackScholes_FunctionVsClass.ipynb) in notebook)
 * __02__ (09/07 Thu): Scientific computing, Monte Carlo method, Random number generation ([Slides](files/MCmethod.pdf), [Py demo](py/MC_Demo.ipynb)). [Grouping for HW/projects, Software installation]
 * __01__ (09/04 Mon): Course overview ([Syllabus](files/syllabus.pdf)), Probability Statistics Review ([Slides](files/ProbStatsReview.pdf))
 
 ## Homeworks:
-### [NEW] __Set 3__ ([Starter Code](https://github.com/PHBS-2017-ASP-Classroom/SpreadBasketOptions_Base))[Due by 10/10 Tues 11 PM, By group]:
+### __Set 4__ ([Starter Code](https://github.com/PHBS-2017-ASP-Classroom/SABRModel_Base))[Due by 10/23 Mon 11 PM, By group]:
+
+### __Set 3__ ([Starter Code](https://github.com/PHBS-2017-ASP-Classroom/SpreadBasketOptions_Base))[Due by 10/10 Tues 11 PM, By group]:
 
 Write code for pricing basket/spread options with Monte-Carlo with control variate.
 
