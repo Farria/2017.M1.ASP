@@ -27,7 +27,9 @@
 ## Homeworks:
 ### __Set 4__ ([Starter Code](https://github.com/PHBS-2017-ASP-Classroom/SABRModel_Base))[Due by 10/23 Mon 11 PM, By group]:
 
-SABR model option pricing options with MC and conditional MC methods
+SABR model option pricing:
+* Volatility smile calibration with 3 option prices (or volatilities) using provided Hagan's formula
+* Monte-Carlo and Conditional MC methods
 
 ### __Set 3__ ([Starter Code](https://github.com/PHBS-2017-ASP-Classroom/SpreadBasketOptions_Base))[Due by 10/10 Tues 11 PM, By group]:
 
