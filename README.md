@@ -1,7 +1,9 @@
 # Applied Stochastic Processes (FIN 514, 2017-18 Module 1)
 
 ## Announcements
-* __[NEW]__ TA office hours announced as [below](#teaching-assistance-葛德生-devon-ge).
+* __[NEW]__ The starter code for [HW2](https://github.com/PHBS-2017-ASP-Classroom/BSMmodel_Base) was updaded. I fixed the implied vol verification part.
+
+* TA office hours announced as [below](#teaching-assistance-葛德生-devon-ge).
 
 * Please create your GitHub account for homework/project. Make sure to add your full name (not only ID). Then, click the classroom invidation link I sent to email.
 
@@ -10,8 +12,9 @@
 * See this wikipage for [python install](https://github.com/PHBS/2017.M1.ASP/wiki/Python-Resources) and [downloading github desktop install file](https://github.com/PHBS/2017.M1.ASP/wiki/Github-Desktop-Download). The Github install files are now in [CMS for this course](http://cms.phbs.pku.edu.cn/claroline/document/document.php?cidReset=true&cidReq=FIN514).
 
 ## Lectures:
-
-* __08 [NEW]__ (09/25 Tues): Spread/Basket options continued(HW3) ([Slides](files/SpreadBasketOption.pdf)), MC simulation for BSM and normal models ([Py demo](py/BlackScholes_MC.ipynb))
+* __10 [NEW]__ (09/28 Thurs): SABR model continued ([Slides](files/SABRmodel.pdf))
+* __09__ (09/28 Thurs): Starter code for [HW3](https://github.com/PHBS-2017-ASP-Classroom/SpreadBasketOptions_Base). SABR model ([Slides](files/SABRmodel.pdf))
+* __08__ (09/25 Tues): Spread/Basket options continued(HW3) ([Slides](files/SpreadBasketOption.pdf)), MC simulation for BSM and normal models ([Py demo](py/BlackScholes_MC.ipynb))
 * __07__ (09/21 Thu): [HW2](https://github.com/PHBS-2017-ASP-Classroom/BSMmodel_Base), Github desktop, Python debugging, Spread/Basket options (HW3) ([Slides](files/SpreadBasketOption.pdf))
 * __06__ (09/20 Wed): Stochastic process review. ([Course note]( https://github.com/PHBS/2016.M3.StoFin/blob/master/files/Notes%20Steele.pdf) from stochastic finance course)
 * __05__ (09/18 Mon): Implied volatility([Slides](files/ImpVol.pdf), [Py demo](py/BlackScholes_ImpliedVol.ipynb)), Vector and Matrix in numpy and RN generation for correlated normals ([Py demo](py/BlackScholes_VectorMatrix.ipynb))
@@ -21,8 +24,11 @@
 * __01__ (09/04 Mon): Course overview ([Syllabus](files/syllabus.pdf)), Probability Statistics Review ([Slides](files/ProbStatsReview.pdf))
 
 ## Homeworks:
+### [NEW] __Set 3__ ([Starter Code](https://github.com/PHBS-2017-ASP-Classroom/SpreadBasketOptions_Base))[Due by 10/10 Tues 11 PM, By group]:
 
-### [NEW] __Set 2__ ([Starter Code](https://github.com/PHBS-2017-ASP-Classroom/BSMmodel_Base))[Due by 9/30 Fri 11 PM, By group]:
+Write code for pricing basket/spread options with Monte-Carlo with control variate.
+
+### __Set 2__ ([Starter Code](https://github.com/PHBS-2017-ASP-Classroom/BSMmodel_Base))[Due by 9/30 Sat 11 PM, By group]:
 
 Write code for Black-Scholes-Merton and Normal model: vanilla option (call/put) price, delta, vega, CDF (digital), and price from Monte-Carlo. Implement them using python class. I am going to provide the base code from which you can build your own.
 
@@ -82,4 +88,4 @@ One of the HWs can be chosen as __a final project topic__ and students will do a
 
 ## Assessment/Grading Details
 Attendance 20%, Mid-term Exam 25%, Assignments 25%, Course Project 30%
-(Mid-term exam will be taken on Oct 23 in the 7th week. There will be no final exam.)
+(Mid-term exam will be taken on Oct 26 in the 7th week. There will be no final exam.)
