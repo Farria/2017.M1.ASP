@@ -34,7 +34,10 @@ Among the 3 HW problems, do an in-depth research on one topic.
 * [HW3](https://github.com/PHBS-2017-ASP-Classroom/SpreadBasketOptions_Base): Spread/Basket (multi-asset) option pricing
 * [HW4](https://github.com/PHBS-2017-ASP-Classroom/SABRModel_Base): SABR model (Stochastic volatility)
 
-You are very welcome to do the project on your own original idea and you will get additional credit for that. Otherwise, pick one from my suggestions which are basically understanding and implementing literatures.
+You are very welcome to do the project on your own original idea and you will get additional credit for that. Otherwise, pick one from my suggestions which are basically understanding and implementing literatures. The github repository for the project should be consist of
+
+* Python codes (.py): python class (and functions)
+* Python notebook (.ipynb): one report file briefly describing the method (including strength/weakness) and the usage (help) and one model test code (to demonstrate that the model works).
 
 ## Homeworks:
 ### __Set 4__ ([Starter Code](https://github.com/PHBS-2017-ASP-Classroom/SABRModel_Base))[Due by 10/23 Mon 11 PM, By group]:
