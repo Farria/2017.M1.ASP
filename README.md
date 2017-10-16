@@ -1,7 +1,7 @@
 # Applied Stochastic Processes (FIN 514, 2017-18 Module 1)
 
 ## Announcements
-* _[NEW]_ Check out the topic suggestions for final projects in each starter code.
+* __[NEW]__ Check out the topic suggestions for final projects in each starter code.
 
 * The starter code for [HW2](https://github.com/PHBS-2017-ASP-Classroom/BSMmodel_Base) was updaded. I fixed the implied vol verification part.
 
@@ -14,6 +14,7 @@
 * See this wikipage for [python install](https://github.com/PHBS/2017.M1.ASP/wiki/Python-Resources) and [downloading github desktop install file](https://github.com/PHBS/2017.M1.ASP/wiki/Github-Desktop-Download). The Github install files are now in [CMS for this course](http://cms.phbs.pku.edu.cn/claroline/document/document.php?cidReset=true&cidReq=FIN514).
 
 ## Lectures:
+* __13 [NEW]__ (10/19 Thurs): Review for mid-term exam
 * __12 [NEW]__ (10/16 Mon): Suggested topics for final projects, OOP in python 
 * __11__ (10/12 Thurs): Conditional MC method for SABR model ([Slides](files/SABRmodel.pdf)), HW4 [Starter Code](https://github.com/PHBS-2017-ASP-Classroom/SABRModel_Base). Demo on [Gauss-Hermite quadrature](https://github.com/PHBS-2017-ASP-Classroom/SABRmodel_Base/blob/master/Demo_GHQ.ipynb), [python import](https://github.com/PHBS-2017-ASP-Classroom/SABRmodel_Base/blob/master/Demo_Advanced_Import.ipynb) and [vectorization](https://github.com/PHBS-2017-ASP-Classroom/SABRmodel_Base/blob/master/Demo_Vectorize.ipynb).
 * __10__ (10/09 Mon): SABR model continued ([Slides](files/SABRmodel.pdf))
