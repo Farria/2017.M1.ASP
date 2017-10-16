@@ -14,7 +14,7 @@
 * See this wikipage for [python install](https://github.com/PHBS/2017.M1.ASP/wiki/Python-Resources) and [downloading github desktop install file](https://github.com/PHBS/2017.M1.ASP/wiki/Github-Desktop-Download). The Github install files are now in [CMS for this course](http://cms.phbs.pku.edu.cn/claroline/document/document.php?cidReset=true&cidReq=FIN514).
 
 ## Lectures:
-* __17 (11/9 Thurs)__ Project presentations
+* __18 (11/9 Thurs)__ Project presentations
 * __17 (11/6 Mon)__ Project presentations
 * __16 (11/2 Thurs)__
 * __15 (10/30 Mon)__
