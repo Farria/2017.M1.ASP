@@ -14,6 +14,12 @@
 * See this wikipage for [python install](https://github.com/PHBS/2017.M1.ASP/wiki/Python-Resources) and [downloading github desktop install file](https://github.com/PHBS/2017.M1.ASP/wiki/Github-Desktop-Download). The Github install files are now in [CMS for this course](http://cms.phbs.pku.edu.cn/claroline/document/document.php?cidReset=true&cidReq=FIN514).
 
 ## Lectures:
+* __17 (11/9 Thurs)__ Project presentations
+* __17 (11/6 Mon)__ Project presentations
+* __16 (11/2 Thurs)__
+* __15 (10/30 Mon)__
+* __14 [NEW]__ (10/26 Thurs) Mid-term Exam (Open-book but no computer use. Rm: TBA)
+* __NO CLASS__ on 11/23 Mon
 * __13 [NEW]__ (10/19 Thurs): Review for mid-term exam
 * __12 [NEW]__ (10/16 Mon): Suggested topics for final projects, OOP in python 
 * __11__ (10/12 Thurs): Conditional MC method for SABR model ([Slides](files/SABRmodel.pdf)), HW4 [Starter Code](https://github.com/PHBS-2017-ASP-Classroom/SABRModel_Base). Demo on [Gauss-Hermite quadrature](https://github.com/PHBS-2017-ASP-Classroom/SABRmodel_Base/blob/master/Demo_GHQ.ipynb), [python import](https://github.com/PHBS-2017-ASP-Classroom/SABRmodel_Base/blob/master/Demo_Advanced_Import.ipynb) and [vectorization](https://github.com/PHBS-2017-ASP-Classroom/SABRmodel_Base/blob/master/Demo_Vectorize.ipynb).
