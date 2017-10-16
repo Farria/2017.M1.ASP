@@ -8,9 +8,6 @@ Below, define all methods that any option pricing model should have
 '''
 
 class ModelBase(abc.ABC):
-    @abc.abstractproperty
-    vol
-    
     @abc.abstractmethod
     def price(self): pass
     
@@ -34,7 +31,7 @@ class Model(ModelBase):
         self.intr = intr
         self.divr = divr
     
-    def myprice(self, strike, spot, texp=None, vol=None, cp_sign=1):
+    def price(self, strike, spot, texp=None, vol=None, cp_sign=1):
         # pas vol and texp if you don't want to use values stored in class
         vol = self.vol if(vol is None) else vol
         texp = self.texp if(texp is None) else texp
@@ -42,7 +39,6 @@ class Model(ModelBase):
         
         price = np.mean(np.fmax(cp_sign*(price_t - strike), 0))
         return price
-
     '''
     def delta(self):
         return 0
