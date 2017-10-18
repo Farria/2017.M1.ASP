@@ -1,7 +1,7 @@
 # Applied Stochastic Processes (FIN 514, 2017-18 Module 1)
 
 ## Announcements
-* __[NEW] Mid-term exam will be held at Rm 403 (not in the usual classroom)__
+* __[NEW] Mid-term exam will be held at Rm 403 (not in the usual classroom)__ See the exam [preview](files/exam_preview.md).
 
 * __[NEW]__ Check out the topic suggestions for final projects in each starter code.
 
@@ -20,10 +20,10 @@
 * __17 (11/6 Mon)__ Project presentations
 * __16 (11/2 Thurs)__
 * __15 (10/30 Mon)__
-* __14 [NEW]__ (10/26 Thurs) Mid-term Exam (Open-book but no computer use. Rm 403)
+* __14__ (10/26 Thurs) Mid-term Exam (Open-book but no computer use. __Rm 403__)
 * __NO CLASS__ on 11/23 Mon
-* __13 [NEW]__ (10/19 Thurs): Review for mid-term exam
-* __12 [NEW]__ (10/16 Mon): Suggested topics for final projects, OOP in python 
+* __13__ (10/19 Thurs): [Preview for mid-term exam](files/exam_preview.md)
+* __12__ (10/16 Mon): Suggested topics for final projects, OOP in python 
 * __11__ (10/12 Thurs): Conditional MC method for SABR model ([Slides](files/SABRmodel.pdf)), HW4 [Starter Code](https://github.com/PHBS-2017-ASP-Classroom/SABRModel_Base). Demo on [Gauss-Hermite quadrature](https://github.com/PHBS-2017-ASP-Classroom/SABRmodel_Base/blob/master/Demo_GHQ.ipynb), [python import](https://github.com/PHBS-2017-ASP-Classroom/SABRmodel_Base/blob/master/Demo_Advanced_Import.ipynb) and [vectorization](https://github.com/PHBS-2017-ASP-Classroom/SABRmodel_Base/blob/master/Demo_Vectorize.ipynb).
 * __10__ (10/09 Mon): SABR model continued ([Slides](files/SABRmodel.pdf))
 * __09__ (09/28 Thurs): Starter code for [HW3](https://github.com/PHBS-2017-ASP-Classroom/SpreadBasketOptions_Base). SABR model ([Slides](files/SABRmodel.pdf))
