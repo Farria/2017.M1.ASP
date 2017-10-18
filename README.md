@@ -1,6 +1,8 @@
 # Applied Stochastic Processes (FIN 514, 2017-18 Module 1)
 
 ## Announcements
+* __[NEW] Mid-term exam will be held at Rm 403 (not in the usual classroom)__
+
 * __[NEW]__ Check out the topic suggestions for final projects in each starter code.
 
 * The starter code for [HW2](https://github.com/PHBS-2017-ASP-Classroom/BSMmodel_Base) was updaded. I fixed the implied vol verification part.
@@ -18,7 +20,7 @@
 * __17 (11/6 Mon)__ Project presentations
 * __16 (11/2 Thurs)__
 * __15 (10/30 Mon)__
-* __14 [NEW]__ (10/26 Thurs) Mid-term Exam (Open-book but no computer use. Rm: TBA)
+* __14 [NEW]__ (10/26 Thurs) Mid-term Exam (Open-book but no computer use. Rm 403)
 * __NO CLASS__ on 11/23 Mon
 * __13 [NEW]__ (10/19 Thurs): Review for mid-term exam
 * __12 [NEW]__ (10/16 Mon): Suggested topics for final projects, OOP in python 
