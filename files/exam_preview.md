@@ -12,17 +12,18 @@
 * What is the distribution of X_t^2 + Y_t^2 (X_t, Y_t are independent BMs)?
 
 ### Solving stochastic differential equation (SDE)
+* [2016 StoFin Course Note](https://github.com/PHBS/2016.M3.StoFin/blob/master/files/Notes%20Steele.pdf): section 8.5 and 9
 * Various solution method from a guess (see below)
 
 ### [Ornstein–Uhlenbeck process](https://en.wikipedia.org/wiki/Ornstein%E2%80%93Uhlenbeck_process) and normal model
-* Solving SDE: How to derive the distribution at time T?
+* Solving SDE (type 1): 
 * How to apply forward Euler method from t to t+dt?
-* How do simulate a path from X_s to X_t (s<t)?
+* How to derive the distribution at time T? and How do simulate a path from X_s to X_t (s<t)?
 * Revisiting normal model for option pricing
 
 ### Pricing Asian options
   * [2016 ASP Midterm](2016_ASP_Midterm.pdf) Problem 5, [2016 StoFin Midterm](2016_StoFin_Midterm.pdf) Problem 3
 
 ### CEV model (SABR model with no stochastic volatility, i.e. alpha=0)
-  * Solving SDE [type 2]
+  * Solving SDE (type 2):
   * [2016 ASP Midterm](2016_ASP_Midterm.pdf) Problem 8, [2016 StoFin Final](2016_StoFin_Final.pdf) problem 5 (CIR)
