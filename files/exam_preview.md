@@ -2,7 +2,7 @@
 
 ### [Poisson process](https://en.wikipedia.org/wiki/Poisson_point_process) (Exponential/Poisson distribution)
 * [Prob/Stat review slides](ProbStatsReview.pdf)
-* PDF/CDF/expectation of the arrival time t (arrival rate = lambda)?
+* PDF/CDF/expectation of the arrival time t (lambda is arrival rate, i.e., number of events in unit time)?
 * How to generate RN for t?
 * Credit default swap (CDS)
 
