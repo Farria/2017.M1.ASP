@@ -9,7 +9,8 @@
 ### Normal RN generation from uniform RN
 * [MC method sides](MCmethod.pdf)
 * Box-Muller method vs Marsaglia's polar method
-* What is the distribution of X_t^2 + Y_t^2 (X_t, Y_t are independent BMs)?
+* What is the distribution of X_t = B1_t^2 + B2_t^2 (B1_t, B2_t are independent BMs)?
+* What is the SDE for X_t and R_t = sqrt(X_t)
 
 ### Solving stochastic differential equation (SDE)
 * [2016 StoFin Course Note](https://github.com/PHBS/2016.M3.StoFin/blob/master/files/Notes%20Steele.pdf): section 8.5 and 9
