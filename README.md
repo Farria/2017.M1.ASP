@@ -1,9 +1,11 @@
 # Applied Stochastic Processes (FIN 514, 2017-18 Module 1)
 
 ## Announcements
-* __[NEW] Mid-term exam will be held at Rm 403 (not in the usual classroom)__ See the exam [preview](files/exam_preview.md).
+* __[NEW]__ Midterm exam [solution](files/ASP_Midterm_Solution.pdf)
 
-* __[NEW]__ Check out the topic suggestions for final projects in each starter code.
+* Mid-term exam will be held at Rm 403 (not in the usual classroom) See the exam [preview](files/exam_preview.md).
+
+* Check out the topic suggestions for final projects in each starter code.
 
 * The starter code for [HW2](https://github.com/PHBS-2017-ASP-Classroom/BSMmodel_Base) was updaded. I fixed the implied vol verification part.
 
