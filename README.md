@@ -20,7 +20,7 @@
 ## Lectures:
 * __18 (11/9 Thurs)__ Project presentations
 * __17 (11/6 Mon)__ Project presentations
-* __16 (11/2 Thurs)__
+* __16 (11/2 Thurs)__ Copula contniued ([Py demo](py/Demo_Copula.ipynb)), NSVh model, guideline for course project
 * __15 (10/30 Mon)__ Copula ([Slides](files/Copula.pdf), [Py demo](py/Demo_Copula.ipynb))
 * __14__ (10/26 Thurs) Mid-term Exam (Open-book but no computer use. __Rm 403__)
 * __NO CLASS__ on 11/23 Mon
