@@ -38,7 +38,7 @@
 * __02__ (09/07 Thu): Scientific computing, Monte Carlo method, Random number generation ([Slides](files/MCmethod.pdf), [Py demo](py/MC_Demo.ipynb)). [Grouping for HW/projects, Software installation]
 * __01__ (09/04 Mon): Course overview ([Syllabus](files/syllabus.pdf)), Probability Statistics Review ([Slides](files/ProbStatsReview.pdf))
 
-## Final Project:
+## Course Project:
 Among the 3 HW problems, do an in-depth research on one topic.
 
 * [HW2](https://github.com/PHBS-2017-ASP-Classroom/BSMmodel_Base): Black-Scholes-Merton (lognormal) vs Bachelier (normal) model: price, greeks and implied volatility
@@ -47,8 +47,20 @@ Among the 3 HW problems, do an in-depth research on one topic.
 
 You are very welcome to do the project on your own original idea and you will get additional credit for that. Otherwise, pick one from my suggestions which are basically understanding and implementing literatures. The github repository for the project should be consist of
 
-* Python codes (.py): python class (and functions)
-* Python notebook (.ipynb): one report file briefly describing the method (including strength/weakness) and the usage (help) and one model test code (to demonstrate that the model works).
+* Core implementation (.py): python class and functions
+  * Make sure to comment in detail.
+  * Put them in a separate subfolder (e.g., option_models) Do not mix with testing/manual notebook files
+* Documentation/Manual (.ipynb): one Jupyter notebook file briefly describing the method (base theory, equations, SDE, strength/weakness, etc), the function prototype and arguments (manual style) and the usage examples
+  * The best examples are from numpy documentation: [example](https://docs.scipy.org/doc/numpy-1.10.1/reference/routines.polynomials.hermite.html)
+* Verification/Test (.ipynb): one Jupyter notebook file briefly test the code/model.
+  * Be a bit creative here
+  * BSM/Normal model: make sure to include the analytic-vs-numerical risk test.
+  * SV (SABR/Heston): make sure that the price converge to BSM/Normal if alpha(vov parameter) goes to 0
+  * Spread/Basket: make sure that the price is same as single asset BSM if the weigit is 1 for only one asset and zero otherwise.
+  
+Other guidelines for the course project:
+* The contribution will be individually graded. Make sure to show the contribution via github desktop commits (not online upload).
+* The presentation next week doesn't have to be complete. Show your plan and understanding so far, e.g. function prototypes & arguments, etc and the tests to put on.
 
 ## Homeworks:
 ### __Set 4__ ([Starter Code](https://github.com/PHBS-2017-ASP-Classroom/SABRModel_Base))[Due by 10/23 Mon 11 PM, By group]:
