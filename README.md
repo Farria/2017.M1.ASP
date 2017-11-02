@@ -7,7 +7,7 @@
 
 * Check out the topic suggestions for final projects in each starter code.
 
-* The starter code for [HW2](https://github.com/PHBS-2017-ASP-Classroom/BSMmodel_Base) was updaded. I fixed the implied vol verification part.
+* The starter code for [HW2](https://github.com/PHBS-2017-ASP-Classroom/BSMmodel_Base) was updaded. I fixed the implied vol validation part.
 
 * TA office hours announced as [below](#teaching-assistance-葛德生-devon-ge).
 
@@ -52,7 +52,7 @@ You are very welcome to do the project on your own original idea and you will ge
   * Put them in a separate subfolder (e.g., option_models) Do not mix with testing/manual notebook files
 * Documentation/Manual (.ipynb): one Jupyter notebook file briefly describing the method (base theory, equations, SDE, strength/weakness, etc), the function prototype and arguments (manual style) and the usage examples
   * The best examples are from numpy documentation: [example](https://docs.scipy.org/doc/numpy-1.10.1/reference/routines.polynomials.hermite.html)
-* Verification/Test (.ipynb): one Jupyter notebook file briefly test the code/model.
+* Validation/Test (.ipynb): one Jupyter notebook file briefly test the code/model.
   * Be a bit creative here
   * BSM/Normal model: make sure to include the analytic-vs-numerical risk test.
   * SV (SABR/Heston): make sure that the price converge to BSM/Normal if alpha(vov parameter) goes to 0
