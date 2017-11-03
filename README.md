@@ -1,7 +1,7 @@
 # Applied Stochastic Processes (FIN 514, 2017-18 Module 1)
 
 ## Announcements
-* __[NEW]__ Midterm exam [solution](files/ASP_Midterm_Solution.pdf)
+* Project [presentation schedule](Projects.MD)
 
 * Mid-term exam will be held at Rm 403 (not in the usual classroom) See the exam [preview](files/exam_preview.md).
 
@@ -22,7 +22,7 @@
 * __17 (11/6 Mon)__ Project presentations
 * __16 (11/2 Thurs)__ Copula contniued ([Py demo](py/Demo_Copula.ipynb)), NSVh model, guideline for course project
 * __15 (10/30 Mon)__ Copula ([Slides](files/Copula.pdf), [Py demo](py/Demo_Copula.ipynb))
-* __14__ (10/26 Thurs) Mid-term Exam (Open-book but no computer use. __Rm 403__)
+* __14__ (10/26 Thurs) Mid-term Exam (Open-book but no computer use. __Rm 403__) [Solution](files/ASP_Midterm_Solution.pdf)
 * __NO CLASS__ on 11/23 Mon
 * __13__ (10/19 Thurs): [Preview for mid-term exam](files/exam_preview.md)
 * __12__ (10/16 Mon): Suggested topics for final projects, OOP in python 
