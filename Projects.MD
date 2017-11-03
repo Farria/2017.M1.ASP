@@ -6,7 +6,7 @@
 * [Project-choichoi](https://www.github.com/PHBS-2017-ASP-Classroom/Project-choichoi): 9 (Thurs), Normal implied volatility (Le Floc'h 2016)
 * [Project-project_team_tgw](https://www.github.com/PHBS-2017-ASP-Classroom/Project-project_team_tgw): 6 (Mon), Normal implied volatility (Choi 2007)
 * [Project-team-666-plus](https://www.github.com/PHBS-2017-ASP-Classroom/Project-team-666-plus): 12 (Thurs), Efficient first guess for SABR calibrations [Le Floc’h and Kennedy, 2014](https://ssrn.com/abstract_id=2467231) (see also [here](https://www.clarusft.com/sabr-calibration-a-simple-explicit-initial-guess/))
-* [Project-team_0001](https://www.github.com/PHBS-2017-ASP-Classroom/Project-team_0001): 10 (Thurs), Basket/Spread option procing from an improved normal model approach
+* [Project-team_0001](https://www.github.com/PHBS-2017-ASP-Classroom/Project-team_0001): 10 (Thurs), Basket/Spread option pricing from an improved analytic normal model approach
 * [Project-team_07_heston_model](https://www.github.com/PHBS-2017-ASP-Classroom/Project-team_07_heston_model): 3 (Mon), Heston model
 * [Project-team_222](https://www.github.com/PHBS-2017-ASP-Classroom/Project-team_222): 4 (Mon), SABR model by (Kennedy, 2011)
 * [Project-team_911_project](https://www.github.com/PHBS-2017-ASP-Classroom/Project-team_911_project): 1 (Mon), Option pricing by CEV nodel 
